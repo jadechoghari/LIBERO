@@ -1,3 +1,4 @@
+ git+https://github.com/jadechoghari/egl_probe.git#egg=egl_probe
  hydra-core==1.2.0
  numpy==1.22.4 
  wandb==0.13.1 
