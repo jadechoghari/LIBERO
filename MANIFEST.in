@@ -1,0 +1,3 @@
+recursive-include libero/bddl_files *
+recursive-include libero/assets *
+recursive-include libero/init_files *
