@@ -17,12 +17,12 @@ setup(
     install_requires=[],
     include_package_data=True,
     package_data={
-        "libero": [
-            "bddl_files/**/*",
-            "assets/**/*",
-            "init_files/**/*",
+    "libero": [
+        "libero/bddl_files/**/*",
+        "libero/assets/**/*",
+        "libero/init_files/**/*",
         ]
-    },
+    }
     python_requires=">=3",
     description="LIBERO: Benchmarking Knowledge Transfer for Lifelong Robot Learning",
     author="Bo Liu, Yifeng Zhu, Chongkai Gao, Yihao Feng, Qiang Liu, Yuke Zhu, Peter Stone",
